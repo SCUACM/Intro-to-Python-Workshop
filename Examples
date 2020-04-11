@@ -20,11 +20,11 @@ print('You got it! The answer was ' + str(r))
 
 ### Conditionals ###
 if temperature > 100:
-	print(‘What a hot day!’)
+  print(‘What a hot day!’)
 elif temperature < 0:
   print(‘Brrrr!’)
 else:
-	print(‘Just right!’)
+  print(‘Just right!’)
 
 
 ### Python with Turtle ###
